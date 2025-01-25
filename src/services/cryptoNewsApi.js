@@ -1,10 +1,10 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
-// Define headers for API authentication
 const cryptoNewsHeaders = {
-  "x-rapidapi-key": "689f338bf2msh3f715229286feb8p1ed835jsn4a9495b10f5a",
-  "x-rapidapi-host": "google-news13.p.rapidapi.com",
+  "x-rapidapi-key": import.meta.env.VITE_GOOGLE_NEWS_API_KEY,
+  "x-rapidapi-host": import.meta.env.VITE_GOOGLE_NEWS_API_HOST,
 };
+
 
 // Base URL for the Google News API
 const baseUrl = "https://google-news13.p.rapidapi.com";

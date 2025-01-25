@@ -37,7 +37,7 @@ const NewsPage = ({ simplified }) => {
 
   // console.log(businessNews?.items); // Debugging the response structure //429 limit exceed
 
-  if (isFetching) return <Spin tip="Loading Business News..." />;
+  if (isFetching) return <h3>Loading...</h3>;
   if (!businessNews?.items || businessNews.items.length === 0)
     return (
       <div>

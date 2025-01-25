@@ -69,10 +69,6 @@ Follow these steps to run the project locally:
 - 🔔 Implement notifications for price alerts.
 - 🌐 Add multi-language support for global users.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## 🙌 Contributions
 
 Contributions, issues, and feature requests are welcome! Feel free to fork the repo and submit a pull request.
@@ -81,6 +77,6 @@ Contributions, issues, and feature requests are welcome! Feel free to fork the r
 
 For inquiries or support, contact me via:
 
-- **GitHub**: Swarajhere
+- **GitHub**: Swarajhere : https://github.com/Swarajhere
 
 ## 💻 Happy Coding! 🚀
